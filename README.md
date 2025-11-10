@@ -13,3 +13,4 @@ Ejercicios para el programa #preinclude. 10/11/25
 - `autoevaluacion.md` → Niveles de competencia
 - `herramientas de proteccion personal.docx` → Las que suelo utilizar
 - `plan de dexconexion digital. docx` → Suelo utlizar este plan de manera esporadica
+-  `imagen banner.pdf`→ Resultado del programa "banner.py"
