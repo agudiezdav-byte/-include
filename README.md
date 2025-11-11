@@ -14,3 +14,4 @@ Ejercicios para el programa #preinclude. 10/11/25
 - `herramientas de proteccion personal.docx` → Las que suelo utilizar
 - `plan de dexconexion digital. docx` → Suelo utlizar este plan de manera esporadica
 -  `imagen banner.pdf`→ Resultado del programa "banner.py"
+<img width="449" height="729" alt="imagen" src="https://github.com/user-attachments/assets/329ee8ad-8a92-4d44-8193-01fee36efe91" />
