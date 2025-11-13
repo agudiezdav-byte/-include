@@ -17,7 +17,6 @@ Ejercicios para el programa #preinclude. 10/11/25
 - `banner `→ Resultado del programa "banner .py"
 - `banner 2`→ Resultado del programa "banner 2 .py"
 - `imagenes y funcionamiento de los comandos.pdf` → capturas de pantalla y explicacion de manera practica de los comandos de Kali y Windows.
-<img width ="449" height="729" alt="imagen" src="https://github.com/user-attachments/assets/329ee8ad-8a92-4d44-8193-01fee36efe91" />
 -
 -HABILIDADES EN DESARROLLO
 -
@@ -25,3 +24,6 @@ Ejercicios para el programa #preinclude. 10/11/25
 - Kali Linux & Máquinas virtuales
 - Python para automatización
 - MITRE ATT&CK & Google Sheets
+
+<img width ="449" height="729" alt="imagen" src="https://github.com/user-attachments/assets/329ee8ad-8a92-4d44-8193-01fee36efe91" />
+
