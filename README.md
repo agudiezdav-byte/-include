@@ -17,7 +17,7 @@ Ejercicios para el programa #preinclude. 10/11/25
 - `banner `→ Resultado del programa "banner .py"
 - `banner 2`→ Resultado del programa "banner 2 .py"
 - `imagenes y funcionamiento de los comandos.pdf` → capturas de pantalla y explicacion de manera practica de los comandos de Kali y Windows.
--
+- `figlet-cowsay.py` → ejercicio realizado en Kali-Linux, para su motaje phyton.
 -HABILIDADES EN DESARROLLO
 -
 - OSINT & Ciberinteligencia
